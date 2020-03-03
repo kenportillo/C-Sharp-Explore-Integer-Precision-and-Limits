@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/bin/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/bin/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.deps.json
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/bin/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.runtimeconfig.json
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/bin/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/bin/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.dll
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/bin/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.pdb
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/obj/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/obj/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/obj/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.AssemblyInfo.cs
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/obj/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.dll
+/Users/Hi/Development/C#/Explore-Integer-Precision-and-Limits/obj/Debug/netcoreapp3.1/Explore-Integer-Precision-and-Limits.pdb
